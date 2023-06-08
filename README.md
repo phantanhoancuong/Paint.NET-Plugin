@@ -1,2 +1,2 @@
 # Paint.NET-Plugin
-This is the Final project for Applications of Compouter Graphics
+A basic implementation of a patch-based content-aware fill plugin for Paint.NET
